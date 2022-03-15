@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/awesomeapp/static/css/main.f8d1f70f.css",
+    "main.js": "/awesomeapp/static/js/main.94ecf034.js",
+    "static/media/logo.png": "/awesomeapp/static/media/logo.4eb9a19b5a3418555a28.png",
+    "index.html": "/awesomeapp/index.html",
+    "main.f8d1f70f.css.map": "/awesomeapp/static/css/main.f8d1f70f.css.map",
+    "main.94ecf034.js.map": "/awesomeapp/static/js/main.94ecf034.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8d1f70f.css",
+    "static/js/main.94ecf034.js"
+  ]
+}
